@@ -4,8 +4,6 @@
 
 This repository contains a C++ implementation of some of the Graph Algorithms: Minimum spanning tree (Prim's Algorithm) &amp; Shortest Path Finding (Dijkstra’s Algorithm). 
 
-This team (me and [@oswidan97](https://github.com/oswidan97)) work was developed as assignment for Data Structures & Algorithms Course Spring 2018 offering at CCE department, Faculty of Engineering, Alexandria University.
-
 ## Overview & goals
 
 - The **main goal** is to become familiar with the graph data structure, its algorithms and applications.
